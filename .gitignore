@@ -46,3 +46,7 @@ DerivedData
 .idea/vcs.xml
 
 .idea/workspace.xml
+# HQ context — generated indices and per-developer overrides
+.hq/
+AGENTS.local.md
+CLAUDE.local.md
